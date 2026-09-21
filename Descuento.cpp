@@ -26,5 +26,5 @@ else{
     cout<<"No hay descuento a compras menores de 100$ total: " <<total<< endl;
 }
 
-
+return 0;
 }
